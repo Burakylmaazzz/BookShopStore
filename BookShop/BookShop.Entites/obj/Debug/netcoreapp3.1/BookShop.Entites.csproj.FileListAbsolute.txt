@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\BookShop\BookShop.Entites\bin\Debug\netcoreapp3.1\BookShop.Entites.deps.json
+C:\Users\user\Desktop\BookShop\BookShop.Entites\bin\Debug\netcoreapp3.1\BookShop.Entites.dll
+C:\Users\user\Desktop\BookShop\BookShop.Entites\bin\Debug\netcoreapp3.1\BookShop.Entites.pdb
+C:\Users\user\Desktop\BookShop\BookShop.Entites\obj\Debug\netcoreapp3.1\BookShop.Entites.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BookShop\BookShop.Entites\obj\Debug\netcoreapp3.1\BookShop.Entites.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BookShop\BookShop.Entites\obj\Debug\netcoreapp3.1\BookShop.Entites.AssemblyInfo.cs
+C:\Users\user\Desktop\BookShop\BookShop.Entites\obj\Debug\netcoreapp3.1\BookShop.Entites.dll
+C:\Users\user\Desktop\BookShop\BookShop.Entites\obj\Debug\netcoreapp3.1\BookShop.Entites.pdb

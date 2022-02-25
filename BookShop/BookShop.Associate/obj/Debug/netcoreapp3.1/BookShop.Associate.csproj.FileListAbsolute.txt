@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\BookShop\BookShop.Associate\bin\Debug\netcoreapp3.1\BookShop.Associate.deps.json
+C:\Users\user\Desktop\BookShop\BookShop.Associate\bin\Debug\netcoreapp3.1\BookShop.Associate.dll
+C:\Users\user\Desktop\BookShop\BookShop.Associate\bin\Debug\netcoreapp3.1\BookShop.Associate.pdb
+C:\Users\user\Desktop\BookShop\BookShop.Associate\bin\Debug\netcoreapp3.1\BookShop.Entites.dll
+C:\Users\user\Desktop\BookShop\BookShop.Associate\bin\Debug\netcoreapp3.1\BookShop.Entites.pdb
+C:\Users\user\Desktop\BookShop\BookShop.Associate\obj\Debug\netcoreapp3.1\BookShop.Associate.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BookShop\BookShop.Associate\obj\Debug\netcoreapp3.1\BookShop.Associate.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BookShop\BookShop.Associate\obj\Debug\netcoreapp3.1\BookShop.Associate.AssemblyInfo.cs
+C:\Users\user\Desktop\BookShop\BookShop.Associate\obj\Debug\netcoreapp3.1\BookShop.Associate.csproj.CopyComplete
+C:\Users\user\Desktop\BookShop\BookShop.Associate\obj\Debug\netcoreapp3.1\BookShop.Associate.dll
+C:\Users\user\Desktop\BookShop\BookShop.Associate\obj\Debug\netcoreapp3.1\BookShop.Associate.pdb

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\BookShop\BoohShop.Business\bin\Debug\netcoreapp3.1\BoohShop.Business.deps.json
+C:\Users\user\Desktop\BookShop\BoohShop.Business\bin\Debug\netcoreapp3.1\BoohShop.Business.dll
+C:\Users\user\Desktop\BookShop\BoohShop.Business\bin\Debug\netcoreapp3.1\BoohShop.Business.pdb
+C:\Users\user\Desktop\BookShop\BoohShop.Business\bin\Debug\netcoreapp3.1\BookShop.DataAccess.dll
+C:\Users\user\Desktop\BookShop\BoohShop.Business\bin\Debug\netcoreapp3.1\BookShop.Entites.dll
+C:\Users\user\Desktop\BookShop\BoohShop.Business\bin\Debug\netcoreapp3.1\BookShop.DataAccess.pdb
+C:\Users\user\Desktop\BookShop\BoohShop.Business\bin\Debug\netcoreapp3.1\BookShop.Entites.pdb
+C:\Users\user\Desktop\BookShop\BoohShop.Business\obj\Debug\netcoreapp3.1\BoohShop.Business.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BookShop\BoohShop.Business\obj\Debug\netcoreapp3.1\BoohShop.Business.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BookShop\BoohShop.Business\obj\Debug\netcoreapp3.1\BoohShop.Business.AssemblyInfo.cs
+C:\Users\user\Desktop\BookShop\BoohShop.Business\obj\Debug\netcoreapp3.1\BoohShop.Business.csproj.CopyComplete
+C:\Users\user\Desktop\BookShop\BoohShop.Business\obj\Debug\netcoreapp3.1\BoohShop.Business.dll
+C:\Users\user\Desktop\BookShop\BoohShop.Business\obj\Debug\netcoreapp3.1\BoohShop.Business.pdb

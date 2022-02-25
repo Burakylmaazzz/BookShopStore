@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\bin\Debug\netcoreapp3.1\BookShop.DataAccess.deps.json
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\bin\Debug\netcoreapp3.1\BookShop.DataAccess.runtimeconfig.json
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\bin\Debug\netcoreapp3.1\BookShop.DataAccess.runtimeconfig.dev.json
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\bin\Debug\netcoreapp3.1\BookShop.DataAccess.dll
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\bin\Debug\netcoreapp3.1\BookShop.DataAccess.pdb
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\bin\Debug\netcoreapp3.1\BookShop.Entites.dll
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\bin\Debug\netcoreapp3.1\BookShop.Entites.pdb
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\obj\Debug\netcoreapp3.1\BookShop.DataAccess.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\obj\Debug\netcoreapp3.1\BookShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\obj\Debug\netcoreapp3.1\BookShop.DataAccess.AssemblyInfo.cs
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\obj\Debug\netcoreapp3.1\BookShop.DataAccess.csproj.CopyComplete
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\obj\Debug\netcoreapp3.1\BookShop.DataAccess.dll
+C:\Users\user\Desktop\BookShop\BookShop.DataAccess\obj\Debug\netcoreapp3.1\BookShop.DataAccess.pdb
